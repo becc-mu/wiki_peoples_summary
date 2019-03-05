@@ -10,8 +10,6 @@ gem 'rspec'
 gem 'rubocop', require: false
 
 group :test do
-  gem 'capybara'
-  gem 'httparty'
   gem 'simplecov', require: false
   gem 'simplecov-console', require: false
 end
