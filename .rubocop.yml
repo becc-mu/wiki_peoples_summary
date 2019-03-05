@@ -1,0 +1,12 @@
+Metrics/LineLength:
+  Exclude:
+    - 'spec/**/*'
+    - 'test/**/*'
+
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*'
+    - 'test/**/*'
+    
+Metrics/LineLength:
+  Max: 100
