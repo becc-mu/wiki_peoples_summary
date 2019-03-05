@@ -1,0 +1,3 @@
+class WikiAPI
+
+end
